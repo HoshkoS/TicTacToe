@@ -1,0 +1,5 @@
+require './bot_player.rb'
+require './map.rb'
+require './telegram_helper.rb'
+require './telegram.rb'
+require 'telegram/bot'
